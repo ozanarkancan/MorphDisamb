@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<configuration>
+	<disambiguater></disambiguater>
+	<trainParameters>
+		<param1></param1>
+		<param2></param2>
+	</trainParameters>
+	<devParemeters>
+	</devParemeters>
+	<testParameters>
+	</testParameters>
+	<trainFile></trainFile>
+	<devFile></devFile>
+	<testFile></testFile>
+	<modelFile></modelFile>
+	<svmDisambStrategies>
+		<strategy></strategy>
+		<strategy></strategy>
+	</svmDisambStrategies>
+</configuration>
